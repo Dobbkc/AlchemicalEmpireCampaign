@@ -7,7 +7,7 @@ title: CollectionBuilder-GH
 metadata: collection-metadata # check against cdm-collection-id below -- this should be used in config file as well
 
 # repository is the github repository's full url
-repository: https://github.com/CollectionBuilder/collectionbuilder-gh
+repository: https://dobbkc.github.io/AlchemicalEmpireCampaign
 
 # header and head metadata
 # tagline appears in banner
@@ -18,15 +18,15 @@ description: "CollectionBuilder-GH is a template for creating small digital coll
 # keywords appear in meta tags
 keywords: "university of idaho, digital collections, digital humanities"
 # creator of the digital collection, to appear in meta tags
-author: evanwill
+author: dobbkc
 
 
 # Home page
 # give full filename including folder
-home-banner-image: "objects/test011.jpg"
+home-banner-image: "objects/SnowBlossomBanner.jpg"
 home-banner-image-link:  # leave blank unless no cdm number to generate item
 # give title of the image for accessibility
-home-banner-image-title: Snowstorm Concentrator, Troy, Montana. No. 6. # for accessibility 
+home-banner-image-title: Snowblossom Guild Banner # for accessibility 
 # optional: add extra padding around title for larger image feature
 home-title-y-padding: 5em # the margin from the top your title portion will appear
 carousel-height: 500 # in px, but don't include the "px"; default is 300.
